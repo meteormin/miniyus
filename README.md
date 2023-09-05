@@ -1,6 +1,6 @@
 ### GitHub Stats
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=miniyus&theme=nord)](https://github.com/miniyus/finance-data-auto-posting)
+![Readme Card](https://github-readme-stats.vercel.app/api?username=miniyus&theme=nord)
 
 ### Languages
 [![most-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=miniyus&layout=compact&exclude_repo=miniyus.github.io&theme=nord)](https://github.com/miniyus)
